@@ -5,3 +5,13 @@
     </blockquote>
     <figcaption>—Doug Mclloy</figcaption>
 </figure>
+
+<br>
+<br>
+<figure>
+    <blockquote> 
+        <p>Why are const variables so serious?
+		They take themselves too literally.</p>
+    </blockquote>
+    <figcaption>—Random guy</figcaption>
+</figure>
